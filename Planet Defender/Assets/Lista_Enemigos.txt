@@ -1,0 +1,13 @@
+1. Soldier
+2. Protector
+3. Deflector
+4. Assaulter
+5. Transporter
+6. Freighter
+7. Flanker
+8. EliteAssaulter
+9. Executor
+10. Kinector
+11. Bulldozer
+12. Commander
+13. Suplier
